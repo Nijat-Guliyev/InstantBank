@@ -27,4 +27,4 @@ There are two currencies, Euro and Dollar. Euro is for John, while Dollar is for
 
 ## Author
 
-Created by [Nijat Guliyev](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Feel free to check out my [GitHub profile](https://github.com/Nijat-Guliyev) for more projects!
+Modified by [Nijat Guliyev](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Feel free to check out my [GitHub profile](https://github.com/Nijat-Guliyev) for more projects!
